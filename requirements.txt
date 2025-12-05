@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+langchain
+langchain-community
+sentence-transformers
+pypdf
+python-dotenv
+faiss-cpu
+pypdf
+sympy
+-U `langchain-ollama
+
